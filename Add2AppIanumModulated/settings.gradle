@@ -1,0 +1,1 @@
+include ':app', ':flutter_embbebed'                                     // assumed existing content
